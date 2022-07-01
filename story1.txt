@@ -1,3 +1,7 @@
 adding 1st line from remote
 adding 2nd line from remote
+<<<<<<< HEAD
 local trial
+=======
+trial
+>>>>>>> d1f84b4ebe33adac1b0ed72a92ecb1559b304fb2
