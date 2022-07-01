@@ -1,2 +1,2 @@
 adding 1st line from remote
-second line through local
+adding 2nd line from remote
